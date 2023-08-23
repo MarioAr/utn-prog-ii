@@ -51,9 +51,9 @@ Se apuntará a introducir las principales características de la plataforma y de
 * https://adamsitnik.com/Value-Types-vs-Reference-Types/
 
  
-https://docs.microsoft.com/en-us/dotnet/standard/base-types/formatting-types
-https://docs.microsoft.com/en-us/dotnet/api/system.console?view=net-5.0
+<!-- https://docs.microsoft.com/en-us/dotnet/standard/base-types/formatting-types
+https://docs.microsoft.com/en-us/dotnet/api/system.console?view=net-5.0 -->
 
-Capítulo 1 Hello, C#! Welcome, .NET!
+<!-- Capítulo 1 Hello, C#! Welcome, .NET!
 Capítulo 2 Speaking C#
-Capítulo 3 Controlling Flow and Converting Types
+Capítulo 3 Controlling Flow and Converting Types -->
