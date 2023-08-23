@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprog_2_web=self.webpackChunkprog_2_web||[]).push([[870],{50094:e=>{e.exports=JSON.parse('{"permalink":"/utn-prog-ii/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
