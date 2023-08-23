@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprog_2_web=self.webpackChunkprog_2_web||[]).push([[7847],{1133:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/utn-prog-ii/blog/tags/hola","allTagsPath":"/utn-prog-ii/blog/tags","count":1}')}}]);
