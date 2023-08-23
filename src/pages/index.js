@@ -4,7 +4,7 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
-import styles from './index.module.css';
+import styles from './styles.module.css';
 
 const features = [
     {
@@ -41,19 +41,19 @@ const features = [
         imageUrl: 'base/campus.svg',
         description: (
             <>
-                <p>La planificación, las grabaciones de las clases y las calificaciones se encuentran en <b><a target="_blank" href="https://classroom.google.com/u/0/c/NTQ1MTg2NjM5NDBa">Google Classroom</a></b>.</p>
+                <p>La planificación, las grabaciones de las clases y las calificaciones se encuentran en <b>Google Classroom</b>.</p>
             </>
         ),
     },
-    {
-        title: 'Slack',
-        imageUrl: 'base/robots-hablando.svg',
-        description: (
-            <>
-                <p>Nos mantenemos al día y nos comunicamos afuera del aula a través de <b><a target="_blank" href="https://join.slack.com/t/utn-prog2/shared_invite/zt-a7q2ca78-HDLaVbxtzMLSzVrxct3xWg">Slack</a></b>.</p>
-            </>
-        ),
-    },
+    // {
+    //   title: 'Slack',
+    //   imageUrl: 'base/robots-hablando.svg',
+    //   description: (
+    //     <>
+    //       <p>Nos mantenemos al día y nos comunicamos afuera del aula a través de <b><a target="_blank" href="https://join.slack.com/t/utn-prog2/shared_invite/zt-a7q2ca78-HDLaVbxtzMLSzVrxct3xWg">Slack</a></b>.</p>
+    //     </>
+    //   ),
+    // },
     {
         title: 'Ejercicios resueltos',
         imageUrl: 'base/resueltos.svg',
@@ -87,7 +87,7 @@ function Home() {
     return (
         <Layout
             title={`${siteConfig.title}`}
-            description="Description will go into a meta tag in <head />">
+            description="Información, apuntes y ejercicios para las asignaturas Programación II y Laboratorio de Computación II">
             <header className={clsx('hero hero--primary', styles.heroBanner)}>
                 <div className="container">
                     <h1 className="hero__title">{siteConfig.title}</h1>

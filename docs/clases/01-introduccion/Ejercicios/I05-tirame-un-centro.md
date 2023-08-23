@@ -17,10 +17,10 @@ Se pide elaborar una aplicación que calcule los centros numéricos entre 1 y el
 
 :::important Importante
 
-Utilizar estructuras repetitivas y selectivas.
+Utilizar sentencias de iteración y selectivas.
 
 :::
 
 ### Resolución
-| ![img](/base/youtube.svg) | Video | ![img](/base/github.svg) | Código |
+| ![img](/base/youtube.svg) | [Video](https://youtu.be/9BjfEf1NPJQ) | ![img](/base/github.svg) | Código |
 | :-----------------------: | :---: | :----------------------: | :----: |
