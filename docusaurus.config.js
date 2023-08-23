@@ -9,20 +9,20 @@ const config = {
     title: "UTN FRA - Programación II",
     tagline:
         "Información, apuntes y ejercicios para las asignaturas Programación II y Laboratorio de Computación II.",
-    favicon: 'img/favicon.ico',
+    favicon: 'base/favicon.ico',
 
     // Set the production url of your site here
-    url: 'https://your-docusaurus-test-site.com',
+    url: 'https://marioar.github.io',
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
-    baseUrl: '/',
+    baseUrl: '/utn-prog-ii/',
 
     staticDirectories: ['static'], // 'public', 
 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
-    organizationName: 'utn fra', // Usually your GitHub org/user name.
-    projectName: 'progra2', // Usually your repo name.
+    organizationName: 'marioar', // Usually your GitHub org/user name.
+    projectName: 'utn-prog-ii', // Usually your repo name.
 
     onBrokenLinks: 'log', // throw
     onBrokenMarkdownLinks: 'warn',
@@ -31,8 +31,8 @@ const config = {
     // metadata like html lang. For example, if your site is Chinese, you may want
     // to replace "en" with "zh-Hans".
     i18n: {
-        defaultLocale: 'en',
-        locales: ['en'],
+        defaultLocale: 'es',
+        locales: ['es'],
     },
 
     presets: [
